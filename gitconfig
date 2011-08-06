@@ -1,6 +1,10 @@
 [user]
-  name = Erik Michaels-Ober
-  email = sferik@gmail.com
+  name = Joel Mahoney
+  email = joelmahoney@gmail.com
+[core]
+  quotepath = false
+  editor = mate -w
+  excludesfile = /Users/lat45n/.gitignore
 [color]
   branch = auto
   diff = auto
@@ -27,7 +31,5 @@
   df = diff --word-diff
   lg = log -p
   l1 = log --oneline --decorate
-[core]
-  quotepath = false
 [push]
   default = tracking
